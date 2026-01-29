@@ -8,7 +8,7 @@ A comprehensive sales performance analysis for Global Mart, a multinational reta
 
 ![Dashboard Preview](images/dashboard-preview.png)
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Business Problem](#business-problem)
 - [Dataset](#dataset)
@@ -23,7 +23,7 @@ A comprehensive sales performance analysis for Global Mart, a multinational reta
 - [How to Use](#how-to-use)
 - [Author](#author)
 
-## 🎯 Business Problem
+## Business Problem
 
 Global Mart, a multinational retail company specializing in Furniture, Office Supplies, and Technology, needed to optimize its sales performance and profitability. The company lacked clear visibility into:
 
@@ -33,7 +33,7 @@ Global Mart, a multinational retail company specializing in Furniture, Office Su
 
 **Project Goal:** Explore, analyze, and visualize sales data to identify growth opportunities, uncover trends, and address challenges in sales performance.
 
-## 📊 Dataset
+## Dataset
 
 | Attribute | Details |
 |-----------|---------|
@@ -45,7 +45,7 @@ Global Mart, a multinational retail company specializing in Furniture, Office Su
 
 **Data Fields:** Row ID, Order ID, Order Date, Region, State, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit
 
-## 🔬 Methodology
+## Methodology
 
 This project follows the **CRISP-DM (Cross-Industry Standard Process for Data Mining)** framework:
 
@@ -56,7 +56,7 @@ This project follows the **CRISP-DM (Cross-Industry Standard Process for Data Mi
 5. **Evaluation** - Analyzed findings and validated insights
 6. **Deployment** - Created interactive dashboards
 
-## 🧹 Data Preparation
+## Data Preparation
 
 ### Data Quality Issues Identified
 - Missing Order Dates: 61 rows (6%)
@@ -80,7 +80,7 @@ This project follows the **CRISP-DM (Cross-Industry Standard Process for Data Mi
 
 **Result:** 940 clean records (93% data retention)
 
-## 🗂️ Data Model
+## Data Model
 
 Built a **star schema** with the following structure:
 
@@ -111,7 +111,7 @@ Built a **star schema** with the following structure:
 | Total Quantity | Sum of quantity sold |
 | Average Discount | Mean discount applied |
 
-## 📈 Dashboards
+## Dashboards
 
 Five interactive dashboards were developed:
 
@@ -132,7 +132,7 @@ Order distribution by region and top-performing states analysis.
 
 **Interactive Features:** Navigation buttons, Slicers, Clear All functionality, Cross-filtering, Tooltips
 
-## 🔍 Key Findings
+## Key Findings
 
 ### Finding 1: Regional Performance Gap
 
@@ -161,7 +161,7 @@ Order distribution by region and top-performing states analysis.
 - **Seasonal Peak:** December shows highest sales across all years
 - **Top 5 States:** Ohio, Illinois, Pennsylvania, Michigan, California
 
-## 💡 Recommendations
+## Recommendations
 
 | # | Recommendation | Current | Target | Potential Impact |
 |---|----------------|---------|--------|------------------|
@@ -172,14 +172,14 @@ Order distribution by region and top-performing states analysis.
 
 **Estimated Total Impact:** +$250-350K annual profit improvement
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Power BI Desktop** - Data modeling, DAX measures, dashboard development
 - **Power Query** - Data cleaning and transformation
 - **Microsoft Excel** - Source data
 - **CRISP-DM** - Project methodology framework
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 globalmart-sales-analysis/
@@ -193,7 +193,7 @@ globalmart-sales-analysis/
     └── dashboard-preview.png         # Dashboard screenshots
 ```
 
-## 🚀 How to Use
+## How to Use
 
 1. **Clone the repository**
    ```bash
