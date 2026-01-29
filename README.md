@@ -214,8 +214,4 @@ globalmart-sales-analysis/
 **Annrisper**
 
 - GitHub: [@annrisper](https://github.com/annrisper)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
-*This project was completed as part of my Data Analytics Capstone at Moringa School.*
+  
