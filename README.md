@@ -209,9 +209,5 @@ globalmart-sales-analysis/
    - Apply filters using slicers (Year, Region, Category)
    - Hover over visuals for detailed tooltips
 
-## 👤 Author
 
-**Annrisper**
-
-- GitHub: [@annrisper](https://github.com/annrisper)
   
