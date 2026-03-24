@@ -1,27 +1,9 @@
-# Global Mart Sales Performance Analysis
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![CRISP-DM](https://img.shields.io/badge/Methodology-CRISP--DM-blue?style=for-the-badge)
+Global Mart Sales Performance Analysis
 
 A comprehensive sales performance analysis for Global Mart, a multinational retail company, using Power BI and the CRISP-DM methodology. This project identifies key business insights and provides actionable recommendations to improve profitability.
 
 ![Dashboard Preview](images/dashboard-preview.png)
 
-## Table of Contents
-
-- [Business Problem](#business-problem)
-- [Dataset](#dataset)
-- [Methodology](#methodology)
-- [Data Preparation](#data-preparation)
-- [Data Model](#data-model)
-- [Dashboards](#dashboards)
-- [Key Findings](#key-findings)
-- [Recommendations](#recommendations)
-- [Tools Used](#tools-used)
-- [Project Structure](#project-structure)
-- [How to Use](#how-to-use)
-- [Author](#author)
 
 ## Business Problem
 
